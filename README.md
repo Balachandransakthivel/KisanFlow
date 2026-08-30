@@ -1,7 +1,3 @@
-# Welcome to OnSpace AI
-
-Onspace AI empowers anyone to turn ideas into powerful AI applications in minutes—no coding required. Our free, no-code platform enables effortless creation of custom AI apps; simply describe your vision and our agentic AI handles the rest. The onspace-app, built with React Native and Expo, demonstrates this capability—integrating popular third-party libraries to deliver seamless cross-platform performance across iOS, Android, and Web environments.
-
 ## Getting Started
 
 ### 1. Install Dependencies
@@ -65,11 +61,3 @@ For a full list of dependencies, see [package.json](./package.json).
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is private ("private": true). For collaboration inquiries, please contact the author.
-
----
-
-Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
